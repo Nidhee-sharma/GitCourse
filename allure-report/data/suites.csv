@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Aug 17 12:43:22 IST 2024","Sat Aug 17 12:43:38 IST 2024","16205","08122024","test_Lab007","","","","Verify that the URL changes when we click on Make appointment","Verify the URL chnages"
+"passed","Sat Aug 17 12:42:51 IST 2024","Sat Aug 17 12:43:13 IST 2024","22499","08072024","test_lab003","","","","test_login_vwlogin",""
+"failed","Sat Aug 17 12:42:22 IST 2024","Sat Aug 17 12:42:39 IST 2024","17558","08072024","test_Lab002","","","","test_login_vwlogin",""
+"broken","Sat Aug 17 12:43:13 IST 2024","Sat Aug 17 12:43:13 IST 2024","0","08072024","test_lab004","","","","test_login_vwlogin",""
+"broken","Sat Aug 17 12:43:13 IST 2024","Sat Aug 17 12:43:20 IST 2024","6471","08072024","test_lab005","","","","test_login_vwlogin",""
+"passed","Sat Aug 17 12:42:40 IST 2024","Sat Aug 17 12:42:50 IST 2024","10767","08072024","test_lab001","","","","test_simpleTest",""

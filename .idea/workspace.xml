@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc69fe44-6ccd-4673-a8eb-f7fde642f2a6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08072024/test_Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08072024/test_lab001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08072024/test_lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08072024/test_lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08072024/test_lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08122024/test_Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08122024/test_Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08122024/test_Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08122024/test_Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08122024/test_Lab011.py" afterDir="false" />
-    </list>
+    <list default="true" id="cc69fe44-6ccd-4673-a8eb-f7fde642f2a6" name="Changes" comment="12th au//*[@id=&quot;appointment&quot;]/div/div/div/h2guest 2024" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,7 +157,20 @@
       <option name="presentableId" value="Default" />
       <updated>1723639964179</updated>
     </task>
+    <task id="LOCAL-00001" summary="12th au//*[@id=&quot;appointment&quot;]/div/div/div/h2guest 2024">
+      <option name="closed" value="true" />
+      <created>1723901313705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723901313705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12th au//*[@id=&quot;appointment&quot;]/div/div/div/h2guest 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="12th au//*[@id=&quot;appointment&quot;]/div/div/div/h2guest 2024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
